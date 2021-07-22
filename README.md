@@ -12,3 +12,5 @@ Right now, not all of the tests should pass. Fix the function to pass all its te
 
 [VC in production](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
 
+[Review Best Practices] (https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+
