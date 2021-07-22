@@ -18,3 +18,5 @@ Right now, not all of the tests should pass. Fix the function to pass all its te
 
 [Pivotal Engineering](https://tanzu.vmware.com/content/pivotal-engineering-journal)
 
+[Errors](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)
+
