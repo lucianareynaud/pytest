@@ -10,3 +10,5 @@ Right now, not all of the tests should pass. Fix the function to pass all its te
 
 [Writing Tests](https://docs.python-guide.org/writing/tests/)
 
+[VC in production](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
+
